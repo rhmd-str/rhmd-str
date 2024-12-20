@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to fly a airplane
 - 💞️ I’m looking to collaborate on teleradiology
 - 📫 reach me via email.
-- ⚡ Fun fact: Built my second solar Energy plant.
+- ⚡ Fun fact: Built my second solar energy plant.
 
 <!---
 rhmd-str/rhmd-str is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
